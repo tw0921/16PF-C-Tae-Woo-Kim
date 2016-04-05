@@ -14,5 +14,5 @@ print persian_cat
 print backslash_cat
 print fat_cat
 
-print('%r' % "single quote \' double quote \'")
-print('%r' % "double quote \' single quote \'")
+print('%r' % "single quote \' double quote \"")
+print('%r' % "double quote \" single quote \'")
